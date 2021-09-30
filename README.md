@@ -1,7 +1,3 @@
-# awesome-Radiology-Report-Generation
-Paper List about Radiology Report Generation and also some medical image captioning
-
-
 # Awesome Radiology Report Generation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
