@@ -47,6 +47,9 @@ A curated list of radiology report generation (medical report generation) and re
 ### 2020
 * [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
 * [When Radiology Report Generation Meets Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/6989/6843) - Zhang Y et al, `AAAI 2020`.
+* [Reinforcement Learning with Imbalanced Dataset for Data-to-Text Medical Report Generation](https://aclanthology.org/2020.findings-emnlp.202/) -	Toru Nishino et al. `EMNLP 2020`
+* [WIRE: An Automated Report Generation System using Topical and Temporal Summarization](https://dl.acm.org/doi/10.1145/3397271.3401409) `sigir2020`
+* 
 
 
 ### 2021
@@ -57,7 +60,13 @@ A curated list of radiology report generation (medical report generation) and re
 * [Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation](https://aclanthology.org/2021.naacl-main.416.pdf) -Yasuhide Miura et al, `NACCL 2021`
 * [A Self-boosting Framework for Automated Radiographic Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf) -Zhanyu Wang et al, `CVPR 2021`.
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) -Fenglin Liu et al., `CVPR 2021`.
-
+* [Competence-based Multimodal Curriculum Learning for Medical Report Generation (Short)](https://web.pkusz.edu.cn/adsp/files/2021/07/ACL2021_CMCL.pdf) -Fenglin Liu et al. `ACL 2021`
+* [Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation](https://aclanthology.org/2021.acl-long.387.pdf) -Xingyi Yang et al. `ACL 2021`
+* [Unifying Relational Sentence Generation and Retrieval for Medical Image Report Composition](https://arxiv.org/pdf/2101.03287.pdf) -Fuyu Wang et al. `IEEE CYB 2021`
+* [Progressive Transformer-Based Generation of Radiology Reports](https://github.com/uzh-dqbm-cmi/ARGON) -Farhad Nooralahzadeh et al. `EMNLP 2021`
+* [Variational Topic Inference for Chest X-Ray Report Generation](https://arxiv.org/pdf/2107.07314.pdf) -Ivona Najdenkoska et al. `Arxiv 2021`
+* [Confidence-Guided Radiology Report Generation](https://arxiv.org/pdf/2106.10887.pdf) -Yixin Wang et al. `NIPS 2021`
+* 
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
