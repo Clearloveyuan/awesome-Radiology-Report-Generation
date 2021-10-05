@@ -68,6 +68,10 @@ A curated list of radiology report generation (medical report generation) and re
 * [Confidence-Guided Radiology Report Generation](https://arxiv.org/pdf/2106.10887.pdf) -Yixin Wang et al. `NIPS 2021`
 * 
 
+
+## Related Word/Topic
+### Textual labeling of medical images
+
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
 * [MIMIC-CXR: a large publicly available database of labeled chest radiographs](https://deepai.org/publication/mimic-cxr-a-large-publicly-available-database-of-labeled-chest-radiographs) - Johnson A E W et al, `arXiv preprint 2019`.
