@@ -27,7 +27,7 @@ A curated list of radiology report generation (medical report generation) and re
 * [Tandemnet: Distilling knowledge from medical images using diagnostic reports as optional semantic references](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_MDNet_A_Semantically_CVPR_2017_paper.pdf) - Zhang Z et al, `MICCAI 2017`.
 
 ### 2018
-* [On the automatic generation of medical imaging reports](https://arxiv.org/pdf/1711.08195) - Jing B et al, `ACL 2018`.
+* [On the automatic generation of medical imaging reports](https://arxiv.org/pdf/1711.08195) - Jing B et al, `ACL 2018` [[code]](https://github.com/ZexinYan/Medical-Report-Generation).
 * [Textray: Mining clinical reports to gain a broad understanding of chest x-rays](https://arxiv.org/pdf/1806.02121) - Laserson J et al, `MICCAI 2018`.
 * [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.
 
