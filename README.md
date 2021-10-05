@@ -40,7 +40,7 @@ A curated list of radiology report generation (medical report generation) and re
 * [EEGtoText: Learning to Write Medical Reports from EEG Recordings](http://proceedings.mlr.press/v106/biswal19a/biswal19a.pdf) - Biswal S et al, `PMLR 2019`.
 * [Multi-Attention and Incorporating Background Information Model for Chest X-Ray Image Report Generation](https://ieeexplore.ieee.org/iel7/6287639/8600701/08867873.pdf) - Huang X et al, `ACCESS 2019`.
 * [Baselines for Chest X-Ray Report Generation](https://ml4health.github.io/2019/pdf/175_ml4h_preprint.pdf) - Boag W et al, `arXiv preprint 2019`.
-* [Clinically accurate chest X-ray report generation](https://arxiv.org/pdf/1904.02633) - Liu G et al, `arXiv preprint 2019`.
+* [Clinically accurate chest X-ray report generation](https://arxiv.org/pdf/1904.02633) - Liu G et al, `arXiv preprint 2019`.[[code]](https://github.com/RAAIL/clinically-accurate-chest-x-ray-report-generation)
 * [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/pdf/1911.02541) - Zhang Y et al, `arXiv preprint 2019`.
 * [Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment](https://arxiv.org/pdf/1907.09085.pdf) -Jianbo Yuan et, `arXiv preprint 2019`.
 
