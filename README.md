@@ -19,7 +19,7 @@ A curated list of radiology report generation (medical report generation) and re
 * [Diagnostic Captioning: A Survey](https://arxiv.org/pdf/2101.07299) - Pavlopoulos et al, `arXiv preprint 2021`.
 
 ### 2016
-* [Learning to read chest x-rays: Recurrent neural cascade model for automated image annotation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Shin_Learning_to_Read_CVPR_2016_paper.pdf) - Shin H C et al, `CVPR 2016`.
+* [Learning to read chest x-rays: Recurrent neural cascade model for automated image annotation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Shin_Learning_to_Read_CVPR_2016_paper.pdf) - Shin H C et al, `CVPR 2016`.[[code]](https://github.com/khcs/learning-to-read).
 
 ### 2017
 * [Mdnet: A semantically and visually interpretable medical image diagnosis network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_MDNet_A_Semantically_CVPR_2017_paper.pdf) - Zhang Z et al, `CVPR 2017`.
@@ -70,7 +70,11 @@ A curated list of radiology report generation (medical report generation) and re
 
 
 ## Related Word/Topic
-### Textual labeling of medical images
+#### Textual labeling of medical images
+#### Image captioning
+
+
+
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
